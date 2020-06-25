@@ -5,6 +5,7 @@
   padding: 10px;
   width: 30%;
   margin: 20px 0;
+  background: rgba(#ffffff, #ffffff, #ffffff, 0.5);
 }
 
 .search::placeholder {
